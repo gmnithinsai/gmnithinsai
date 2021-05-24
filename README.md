@@ -2,10 +2,10 @@
 - 👀 I’m interested in Math, Programming and Learning Technologies
 - 🌱 I’m currently learning Data Science
 <!---- 💞️ I’m looking to collaborate on ...---->
-- 📫 How to reach me 
-      Email-ID: gmnithinsai2599@gmail.com
-      LinkedIn: https://www.linkedin.com/in/gmnithinsai2599/
-      Instagram: @iam_nithin1
+- 📫 How to reach me  
+- Email-ID: gmnithinsai2599@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/gmnithinsai2599/
+- Instagram: @iam_nithin1
 
 <!---
 gmnithinsai/gmnithinsai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
