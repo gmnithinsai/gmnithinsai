@@ -4,7 +4,7 @@
 <!---- 💞️ I’m looking to collaborate on ...---->
 - 📫 How to reach me  
 - Email-ID: gmnithinsai2599@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/gmnithinsai2599/
+- LinkedIn: https://www.linkedin.com/in/gmnithinsai/
 - Instagram: @iam_nithin1
 - Portfolio : http://gmnithinsai.unaux.com/resumecopy.html
 
