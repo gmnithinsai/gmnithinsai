@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gmnithinsai
 - 👀 I’m interested in Math, Programming and Learning Technologies
-- 🌱 I’m currently learning Data Science
+- 🌱 Currently Working with AI
 <!---- 💞️ I’m looking to collaborate on ...---->
 - 📫 How to reach me  
 - Email-ID: gmnithinsai2599@gmail.com  
