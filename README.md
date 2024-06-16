@@ -6,7 +6,6 @@
 - Email-ID: gmnithinsai2599@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/gmnithinsai/
 - Instagram: @iam_nithin1
-- Portfolio : http://gmnithinsai.unaux.com/resumecopy.html
 
 <!---
 gmnithinsai/gmnithinsai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
